@@ -2,6 +2,7 @@ var fitBounds = [
 			[0.1,0.0],
 			[90.0,90.0]
 		];
+alert("test");
 var osmap;
 var sat		= L.tileLayer('https://kartoteket.alslug.dk/proxy.php/leaflet/map/sat/{z}/{y}/{x}', {
 		maxZoom: 19,
